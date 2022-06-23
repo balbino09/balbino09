@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @balbino09
+- Name: Sonel Dalmeida
 - 👀 I’m interested in Automotive Design
 - 🌱 I’m currently learning python
 
